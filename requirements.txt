@@ -1,0 +1,7 @@
+flask
+groq
+langchain-huggingface
+langchain-community
+faiss-cpu
+sentence-transformers
+huggingface-hub
