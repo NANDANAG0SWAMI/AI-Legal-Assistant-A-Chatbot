@@ -5,6 +5,7 @@
 This project is a Flask-based web application that serves as an AI Legal Assistant. It provides a chat interface to answer legal questions and analyze uploaded text documents, using the Groq API for language processing and a FAISS vector database for context retrieval.
 
 ## App preview
+![Demo Vid](templates/responding)
 
 ![Home Screen - Top View](templates/ailegalassistant.png)
 
