@@ -11,7 +11,7 @@ This project is a Flask-based web application that serves as an AI Legal Assista
 ---
 ## 🚀 Features
 
-1. Web Chat Interface: A clean, responsive chat UI built with HTML, Tailwind CSS, and JavaScript.
+1. Web Chat Interface: A clean, responsive chat UI built with HTML.
 
 2. LLM Integration: Connects to the Groq API (using the Llama 3 model) to generate fast and intelligent responses.
 
