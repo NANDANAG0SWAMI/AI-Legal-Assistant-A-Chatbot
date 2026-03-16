@@ -6,7 +6,7 @@ This project is a Flask-based web application that serves as an AI Legal Assista
 
 ## App preview
 
-![Home Screen - Top View](templates/Screenshot 2026-03-16 220224.png)
+![Home Screen - Top View](templates/ailegalassistant.png)
 
 ---
 ## 🚀 Features
