@@ -1,15 +1,15 @@
-## AI Legal Assistant
+# AI Legal Assistant
 
 
 
 This project is a Flask-based web application that serves as an AI Legal Assistant. It provides a chat interface to answer legal questions and analyze uploaded text documents, using the Groq API for language processing and a FAISS vector database for context retrieval.
 
-# App preview
+## App preview
 
-![Home Screen - Top View](src/assets/img1.png)
+![Home Screen - Top View](template/Screenshot 2026-03-16 220224.png)
 
 ---
-🚀 Features
+## 🚀 Features
 
 1. Web Chat Interface: A clean, responsive chat UI built with HTML, Tailwind CSS, and JavaScript.
 
@@ -23,7 +23,7 @@ This project is a Flask-based web application that serves as an AI Legal Assista
 
 
 
-🛠️ Prerequisites
+## 🛠️ Prerequisites
 
 1. Python 3.8+
 
@@ -33,7 +33,7 @@ This project is a Flask-based web application that serves as an AI Legal Assista
 
 
 
-📦 Installation
+## 📦 Installation
 
 1. Clone the repository:
 
@@ -53,7 +53,7 @@ Note: faiss-cpu is for CPU-based machines. If you have a compatible GPU, you can
 
 
 
-⚙️ Setup & Configuration
+## ⚙️ Setup & Configuration
 
 1. (CRITICAL) Secure Your API Key
 
