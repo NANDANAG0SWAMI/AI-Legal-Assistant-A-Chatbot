@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/29b180dc-f3f9-42f4-8a46-a7629be62c54
 # AI Legal Assistant
 
 
@@ -5,7 +7,11 @@
 This project is a Flask-based web application that serves as an AI Legal Assistant. It provides a chat interface to answer legal questions and analyze uploaded text documents, using the Groq API for language processing and a FAISS vector database for context retrieval.
 
 ## App preview
-![Demo Vid](templates/responding.mp4)
+
+
+https://github.com/user-attachments/assets/e7b9e405-4e04-4fc2-9495-364bcf8012eb
+
+
 
 ![Home Screen - Top View](templates/ailegalassistant.png)
 
