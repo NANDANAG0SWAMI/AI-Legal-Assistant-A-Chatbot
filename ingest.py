@@ -12,7 +12,7 @@ embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-
 # 2. Load your Documents
 # Put your legal PDFs or Text files in a folder named 'docs'
 documents = []
-docs_folder = r"C:\Users\nanda\OneDrive\Desktop\Chatbot\docs"
+docs_folder = r"C:.\docs"
 
 # Get the absolute path so you know EXACTLY where the folder is
 abs_path = os.path.abspath(docs_folder)
